@@ -1,0 +1,1 @@
+import biza from '../assets/bizarro.jpg'
