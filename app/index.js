@@ -1,1 +1,1 @@
-import biza from '../assets/bizarro.jpg'
+console.log('hello world')

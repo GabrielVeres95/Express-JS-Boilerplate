@@ -1,5 +1,3 @@
-/*! ../assets/bizarro.jpg */
-
 /*! ../modules/logger/index.js */
 
 /*! ../node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */
@@ -69,10 +67,6 @@
 /*!***************************!*\
   !*** ./styles/index.scss ***!
   \***************************/
-
-/*!****************************!*\
-  !*** ./assets/bizarro.jpg ***!
-  \****************************/
 
 /*!***************************************!*\
   !*** ./node_modules/events/events.js ***!
@@ -187,5 +181,5 @@
   \********************************************************************************/
 
 /*!***********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=3000&pathname=%2Fws&logging=info&overlay=true&reconnect=10&hot=true&live-reload=true ***!
+  !*** ./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=8080&pathname=%2Fws&logging=info&overlay=true&reconnect=10&hot=true&live-reload=true ***!
   \***********************************************************************************************************************************************************************************/

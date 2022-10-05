@@ -11,6 +11,7 @@ const IS_DEVELOPMENT = process.env.NODE_ENV === 'dev'
 const dirApp = path.join(__dirname, 'app')
 const dirShared = path.join(__dirname, 'shared')
 const dirAssets = path.join(__dirname, 'assets')
+const dirFonts = path.join(__dirname, 'fonts')
 const dirStyles = path.join(__dirname, 'styles')
 const dirNode = 'node_modules'
 
@@ -25,6 +26,7 @@ module.exports = {
       dirApp,
       dirAssets,
       dirShared,
+      dirFonts,
       dirStyles,
       dirNode
     ]
